@@ -14,7 +14,7 @@ Soy Técnico Laboral en Habilidades en Programación con Énfasis en Aplicacione
 📫 Contacto:
 <p align="left">
   <a href="https://www.instagram.com/rafxdev/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@rafxdev"  /></a>
-<a href="www.linkedin.com/in/jrafaelmorantes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafxdev"/></a>
+<a href="https://www.linkedin.com/in/jrafaelmorantes" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rafxdev"/></a>
 <a href="https://www.facebook.com/share/1DuWZrU79g/?mibextid=wwXIfr" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rafxdev"  /></a>
 <a href = "mailto:jrafaelmorantess@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@rafxdev"  /></a>
   </p>
