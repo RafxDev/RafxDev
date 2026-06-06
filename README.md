@@ -35,19 +35,29 @@ Soy Técnico Laboral en Habilidades en Programación con Énfasis en Aplicacione
 <h2>GitHub :octocat:</h2>
 <p align="center">
 </p>        
-
+<img src="https://komarev.com/ghpvc/?username=RafxDev&color=blue&style=flat" />
 
 <!-- grph -->
 <div>
-  <div>
-  <!-- Most commit language -->
-  <img height="200" alt="stats graph" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafxDev&theme=tokyonight" />
-  <!-- Stats generales -->
-  <img height="250" alt="languages graph" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafxDev&theme=tokyonight" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="200" alt="most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafxDev&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="200" alt="stats generales" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafxDev&theme=tokyonight" />
+    </td>
+    <td>
+      <img height="200" src="https://streak-stats.demolab.com?user=RafxDev&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+
+
 
 <!-- Profile details -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafxDev&theme=tokyonight" alt="profile detail" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafxDev&theme=tokyonight" alt="profile detail" />
 
 <!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/RafxDev/RafxDev/build/github-contribution-grid-snake.svg" alt="Snake animation" />
