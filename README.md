@@ -7,9 +7,10 @@
 Soy Técnico Laboral en Habilidades en Programación con Énfasis en Aplicaciones Web, apasionado por el desarrollo de software, la tecnología y el aprendizaje continuo. 
 </p>
 
-- 👨‍💻 Actualmente complemento mi formación a través de programas de Oracle Academy, Hewlett Packard Enterprise, IBM SkillsBuild, Alura Latam y otras iniciativas de capacitación tecnológica
+- 🎓 Enseño ocacionalmente a un grupo de entusiastas de la programacion lenguajes y tecnologias que les permitira seguir avanzando en este mundo de la programacion, busco enseñar lo que he aprendido sobre este mundo.
+- 👨‍💻 Actualmente complemento mi formación a través de programas de Oracle Academy, Hewlett Packard Enterprise, IBM SkillsBuild, Alura Latam y otras iniciativas de capacitación tecnológica.
 - 📚 He obtenido certificaciones en Fundamentos de Analítica de Datos con DS4A / Colombia y Correlation One, así como formación en Java y Python mediante diplomados y cursos especializados.
-- 🎯 Mi objetivo es continuar creciendo profesionalmente en el área del desarrollo de software, participar en proyectos que generen impacto y aportar soluciones tecnológicas innovadoras mientras sigo ampliando mis conocimientos y experiencia
+- 🎯 Mi objetivo es continuar creciendo profesionalmente en el área del desarrollo de software, participar en proyectos que generen impacto y aportar soluciones tecnológicas innovadoras mientras sigo ampliando mis conocimientos y experiencia.
 
 📫 Contacto:
 <p align="left">
