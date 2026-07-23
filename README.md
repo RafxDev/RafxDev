@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/fbrgw8y4/Chat-GPT-Image-30-jun-2026-17-03-40.png" alt="Banner de RafxDev" width="80%">
+  <img src="https://i.postimg.cc/fbrgw8y4/Chat-GPT-Image-30-jun-2026-17-03-40.png" alt="Banner de RafxDev" width="65%">
 </p>
 <h1>
   Hola, Soy Rafael Morantes / RafxDev 
