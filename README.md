@@ -1,61 +1,61 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner de RafxDev - Druida de la Horda" width="100%">
+  <img src="assets/banner.png" alt="RafxDev Banner - Horde Balance Druid" width="100%">
 </p>
 
 <div align="center">
 
 # ⚡ Rafael Morantes (RafxDev) ⚡
-### 🌙 *Druida del Código* | 🏹 *Horda de Desarrolladores* | 💻 *Web & Software Craftsman*
+### 🌙 *Code Druid* | 🏹 *Horde Developer* | 💻 *Web & Software Craftsman*
 
-[![Faction](https://img.shields.io/badge/Facci%C3%B3n-For%20The%20Horde-8C1616?style=for-the-badge&logo=battle.net&logoColor=white)](https://worldofwarcraft.blizzard.com)
-[![Class](https://img.shields.io/badge/Clase-Druida%20Equilibrio-FF7D0A?style=for-the-badge)](https://github.com/RafxDev)
+[![Faction](https://img.shields.io/badge/Faction-For%20The%20Horde-8C1616?style=for-the-badge&logo=battle.net&logoColor=white)](https://worldofwarcraft.blizzard.com)
+[![Class](https://img.shields.io/badge/Class-Balance%20Druid-FF7D0A?style=for-the-badge)](https://github.com/RafxDev)
 [![Spec](https://img.shields.io/badge/Spec-Full%20Stack%20%26%20Tools-FFB100?style=for-the-badge)](https://github.com/RafxDev)
-[![Realm](https://img.shields.io/badge/Reino-Azeroth%20%2F%20Web-4A154B?style=for-the-badge)](https://github.com/RafxDev)
+[![Realm](https://img.shields.io/badge/Realm-Azeroth%20%2F%20Web-4A154B?style=for-the-badge)](https://github.com/RafxDev)
 
 <p align="center">
-  <em>"while (dreams) { learn(); build(); be_better(); } // ¡Por la Horda! ⚔️"</em>
+  <em>"while (dreams) { learn(); build(); be_better(); } // For the Horde! ⚔️"</em>
 </p>
 
 </div>
 
 <br>
 
-## 📜 Ficha de Personaje (Character Sheet)
+## 📜 Character Sheet
 
-<img align="right" src="assets/logo.png" alt="Avatar RafxDev - Druida de la Horda" width="185" style="margin-left: 20px; margin-bottom: 15px;">
+<img align="right" src="assets/logo.png" alt="RafxDev Avatar - Horde Druid" width="185" style="margin-left: 20px; margin-bottom: 15px;">
 
-Soy **Técnico Laboral en Habilidades en Programación con Énfasis en Aplicaciones Web**, apasionado por el desarrollo de software, la arquitectura de soluciones y el aprendizaje continuo. Fanático acérrimo del universo de **World of Warcraft**, de la música algorítmica y de la tecnología orientada a resolver problemas del mundo real.
+I am a **Software Development Technician with an emphasis on Web Applications**, passionate about building software solutions, architecture, and continuous learning. Avid fan of the **World of Warcraft** universe, algorithmic music, and technology designed to solve real-world challenges.
 
-* 🛡️ **Clase principal:** Druida Tecnológico (Desarrollo Web, Automatización & Software Tools).
-* ⚔️ **Facción:** Horda (Lok'tar Ogar!).
-* 🧠 **Habilidades Pasivas:** Resiliencia en depuración, aprendizaje acelerado y pensamiento lógico-matemático.
-* 🎧 **Hobby Sonoro:** Live Coding en **Strudel**, experimentando con samples y ritmos algorítmicos en directo (inspirado en DJ_DAVE).
-* 🎮 **Pasatiempo en Azeroth:** Aventurero en World of Warcraft.
+* 🛡️ **Primary Class:** Tech Druid (Web Development, Automation & Software Tools).
+* ⚔️ **Faction:** Horde (Lok'tar Ogar!).
+* 🧠 **Passive Skills:** Debugging Resilience, Rapid Learning, and Logical-Mathematical Mindset.
+* 🎧 **Sonic Hobby:** Live Coding with **Strudel**, crafting beats and algorithmic rhythms live (heavily inspired by DJ_DAVE).
+* 🎮 **Azeroth Pastime:** Adventurer in World of Warcraft.
 
-<br clear="right"/>
+<br clear="both"/>
 <br>
 
 ---
 
-## 🗺️ Registro de Misiones (Active Quest Log)
+## 🗺️ Active Quest Log
 
-Misiones y expediciones activas en las que estoy trabajando actualmente en el reino del software:
+Current quests and expeditions I am embarking on across the software realm:
 
-- 🌍 **`[Misión Principal]` Guardián Ambiental — Plataforma de Medición de Huella de Carbono:**
-  Colaborando activamente en el desarrollo de una plataforma tecnológica para el cálculo, análisis y monitoreo del impacto ambiental y la huella de carbono.
+- 🌍 **`[Main Quest]` Environmental Guardian — Carbon Footprint Measurement Platform:**
+  Actively collaborating on the development of a technological platform for calculating, monitoring, and analyzing environmental impact and carbon emissions.
 
-- ⚖️ **`[Misión de Forja]` Enlace de Hardware — Capturador Inteligente de Báscula:**
-  Desarrollé una solución de automatización que lee datos de pesaje de básculas en tiempo real y permite capturarlos y copiarlos al portapapeles con tan solo pulsar **una tecla** (optimizando flujos operativos).
+- ⚖️ **`[Forge Quest]` Hardware Interface — Smart Scale Data Reader:**
+  Engineered an automation tool that reads real-time weight data from industrial/commercial scales and enables instant one-key copying to the clipboard (optimizing operational workflows).
 
-- 📐 **`[Misión de Sabiduría]` Archivos de Dalaran — Educación & Matemáticas Aplicadas:**
-  Creación y mantenimiento de repositorios abiertos para la enseñanza interactiva de **lenguajes de programación** y un proyecto especializado enfocado en **matemáticas para desarrolladores**.
+- 📐 **`[Wisdom Quest]` Archives of Dalaran — Education & Applied Mathematics:**
+  Creating and curating open-source learning repositories to teach **programming languages** and leading a specialized project focused on **mathematics for developers**.
 
-- 🎓 **`[Misión Comunitaria]` Mentor de Gremio:**
-  Capacitando y guiando a entusiastas de la tecnología para acompañarlos en su viaje dentro del ecosistema dev.
+- 🎓 **`[Community Quest]` Guild Mentor:**
+  Mentoring and guiding tech enthusiasts to support their journey and growth in the developer ecosystem.
 
 ---
 
-## 🔮 Árbol de Talentos & Grimorio (Tech Stack)
+## 🔮 Talent Tree & Spellbook (Tech Stack)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,65 +64,65 @@ Misiones y expediciones activas en las que estoy trabajando actualmente en el re
 </p>
 
 <details open>
-<summary><b>📖 Desglose de habilidades por rama mágica</b></summary>
+<summary><b>📖 Spellbook Skill Breakdown</b></summary>
 <br>
 
-| Rama Mágica | Habilidades & Tecnologías |
+| Magic School | Skills & Technologies |
 | :--- | :--- |
-| **🌐 Frontend & Interfaces** | HTML5, CSS3, JavaScript, UI/UX Web |
-| **⚙️ Backend & Lenguajes** | Python, Java, Bash Scripting |
-| **💾 Datos & Persistencia** | MySQL, Firebase, Fundamentos de Analítica de Datos |
-| **☁️ Nube & Entornos** | AWS, Azure, Google Cloud Platform (GCP), Linux |
-| **🛠️ Herramientas de Forja** | Git, GitHub Actions, VS Code, Discord.js, Notion |
+| **🌐 Frontend & Interfaces** | HTML5, CSS3, JavaScript, Web UI/UX |
+| **⚙️ Backend & Languages** | Python, Java, Bash Scripting |
+| **💾 Data & Persistence** | MySQL, Firebase, Data Analytics Fundamentals |
+| **☁️ Cloud & Environments** | AWS, Azure, Google Cloud Platform (GCP), Linux |
+| **🛠️ Forge Tools** | Git, GitHub Actions, VS Code, Discord.js, Notion |
 
 </details>
 
 ---
 
-## 🏆 Logros Desbloqueados (Achievements)
+## 🏆 Unlocked Achievements
 
-* 🥇 **[Logro Legendario] Fundamentos de Analítica de Datos:** Certificado por **DS4A / Colombia** y **Correlation One**.
-* 🎖️ **[Logro Épico] Rutas de Maestría:** Diplomados y formación especializada en **Java** y **Python**.
-* 🏅 **[Logro de Gremio] Alianzas Tecnológicas:** Programas culminados con **Oracle Academy**, **Hewlett Packard Enterprise**, **IBM SkillsBuild** y **Alura Latam**.
+* 🥇 **[Legendary Achievement] Data Analytics Fundamentals:** Certified by **DS4A / Colombia** and **Correlation One**.
+* 🎖️ **[Epic Achievement] Mastery Paths:** Specialized diploma and course certifications in **Java** and **Python**.
+* 🏅 **[Guild Achievement] Tech Alliances:** Programs completed with **Oracle Academy**, **Hewlett Packard Enterprise**, **IBM SkillsBuild**, and **Alura Latam**.
 
 ---
 
-## ⚔️ Registros de Batalla (GitHub Stats)
+## ⚔️ Battle Records (GitHub Stats)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafxDev&color=c41f3b&style=flat-square&label=VISTAS+AL+PERFIL" alt="Vistas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=RafxDev&color=c41f3b&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="185" alt="Lenguajes más usados" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafxDev&theme=tokyonight" />
+        <img height="185" alt="Most commit language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RafxDev&theme=tokyonight" />
       </td>
       <td>
-        <img height="185" alt="Estadísticas de combate" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafxDev&theme=tokyonight" />
+        <img height="185" alt="Battle stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RafxDev&theme=tokyonight" />
       </td>
       <td>
-        <img height="185" alt="Racha activa" src="https://streak-stats.demolab.com?user=RafxDev&theme=tokyonight&hide_border=true" />
+        <img height="185" alt="Current streak" src="https://streak-stats.demolab.com?user=RafxDev&theme=tokyonight&hide_border=true" />
       </td>
     </tr>
   </table>
   <br>
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafxDev&theme=tokyonight" alt="Detalle del perfil" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RafxDev&theme=tokyonight" alt="Profile details" />
 </div>
 
 <br>
 
-### 🐍 Dragón de Contribuciones (The Contribution Wyrm)
+### 🐍 The Contribution Wyrm
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RafxDev/RafxDev/build/github-contribution-grid-snake.svg" alt="Animación Snake de contribuciones" />
+  <img src="https://raw.githubusercontent.com/RafxDev/RafxDev/build/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
-## 📍 Piedra de Hogar (Hearthstone / Contacto)
+## 📍 Hearthstone (Contact)
 
-¿Quieres compartir una misión, hablar de software o debatir sobre World of Warcraft? ¡Escríbeme!
+Looking to team up for a quest, talk software engineering, or discuss World of Warcraft? Feel free to reach out!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jrafaelmorantes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -132,5 +132,5 @@ Misiones y expediciones activas en las que estoy trabajando actualmente en el re
 </p>
 
 <p align="center">
-  <sub>🛡️ <i>Lok'tar Ogar! Que tus scripts nunca fallen y tus compilaciones sean legendarias.</i> 🛡️</sub>
+  <sub>🛡️ <i>Lok'tar Ogar! May your scripts never fail and your builds be legendary.</i> 🛡️</sub>
 </p>
