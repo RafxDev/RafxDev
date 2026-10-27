@@ -21,10 +21,87 @@
 <br>
 
 <!-- ========================================== -->
-<!-- 🇺🇸 ENGLISH VERSION (OPEN BY DEFAULT)       -->
+<!-- 🇪🇸 VERSIÓN EN ESPAÑOL (ABIERTA POR DEFECTO)-->
 <!-- ========================================== -->
 <details open>
-  <summary>🇺🇸 <b>English Version</b> <i>(Click to collapse)</i></summary>
+  <summary>🇪🇸 <b>Versión en Español</b> <i>(Click para plegar / colapsar)</i></summary>
+  <br>
+
+  ## 📜 Ficha de Personaje (Character Sheet)
+
+  <img align="right" src="assets/logo.png" alt="RafxDev Avatar - Horde Druid" width="185" style="margin-left: 20px; margin-bottom: 15px;">
+
+  Soy un **Técnico en Desarrollo de Software con énfasis en Aplicaciones Web**, apasionado por la creación de soluciones de software, la arquitectura y el aprendizaje continuo. Fiel seguidor del universo de **World of Warcraft**, la música algorítmica y la tecnología enfocada en resolver desafíos del mundo real.
+
+  * 🛡️ **Clase Principal:** Druida Tecnológico (Desarrollo Web, Automatización y Herramientas de Software).
+  * ⚔️ **Facción:** Horda (¡Lok'tar Ogar! ¡Por la Horda!).
+  * 🧠 **Habilidades Pasivas:** Resiliencia al Debugging, Aprendizaje Acelerado y Pensamiento Lógico-Matemático.
+  * 🗣️ **Entrenamiento Lingüístico:** Estudiando Chino Mandarín 🇨🇳 (Descifrando nuevos pergaminos).
+  * 🎧 **Hobby Sonoro:** Live Coding con **Strudel**, creando ritmos y beats algorítmicos en vivo (fuertemente inspirado por DJ_DAVE).
+  * 🎮 **Pasatiempo en Azeroth:** Aventurero en World of Warcraft.
+
+  <br clear="both"/>
+  <br>
+
+  ---
+
+  ## 🗺️ Registro de Misiones Activas (Active Quest Log)
+
+  Misiones y expediciones actuales en las que me encuentro navegando a través del reino del software:
+
+  - 🎵 **`[Misión Retro]` Reproductor MP3 Vintage — Windows & Nintendo DS:**
+    Desarrollando un reproductor de audio retro por el momento para Windows y Nintendo DS (explorando desarrollo homebrew y plataformas portátiles clásicas).
+
+  - 🕹️ **`[Misión de Emulación]` Arcanos de 8-Bits — Emulador de Commodore 64:**
+    Investigando arquitectura de hardware retro y desarrollando un emulador de Commodore 64, además de diseñar y prototipar nuevos proyectos e ideas de software.
+
+  - 🌍 **`[Misión Principal]` Guardián Ambiental — Plataforma de Medición de Huella de Carbono:**
+    Colaborando activamente en el desarrollo de una plataforma tecnológica para el cálculo, monitoreo y análisis del impacto ambiental y emisiones de carbono.
+
+  - ⚖️ **`[Misión de Forja]` Interfaz de Hardware — Lector de Datos para Balanzas Inteligentes:**
+    Desarrollo de una herramienta de automatización que lee datos de peso en tiempo real desde balanzas industriales/comerciales y permite copiarlos al portapapeles con una sola tecla (optimizando flujos operativos).
+
+  - 📐 **`[Misión de Sabiduría]` Archivos de Dalaran — Educación y Matemáticas Aplicadas:**
+    Creación y mantenimiento de repositorios de aprendizaje de código abierto para enseñar **lenguajes de programación** y liderazgo de un proyecto especializado en **matemáticas para desarrolladores**.
+
+  - 🎓 **`[Misión de Comunidad]` Mentor de Hermandad:**
+    Mentoría y guía a entusiastas de la tecnología para apoyar su camino y crecimiento dentro del ecosistema dev.
+
+  ---
+
+  ## 🔮 Árbol de Talentos y Grimorio (Tech Stack)
+
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,firebase,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=12" />
+    </a>
+  </p>
+
+  | Escuela de Magia | Habilidades y Tecnologías |
+  | :--- | :--- |
+  | **🌐 Frontend e Interfaces** | HTML5, CSS3, JavaScript, Web UI/UX |
+  | **⚙️ Backend y Lenguajes** | Python, Java, Bash Scripting |
+  | **💾 Datos y Persistencia** | MySQL, Firebase, Fundamentos de Análisis de Datos |
+  | **☁️ Nube y Entornos** | AWS, Azure, Google Cloud Platform (GCP), Linux |
+  | **🛠️ Herramientas de Forja** | Git, GitHub Actions, VS Code, Discord.js, Notion |
+
+  ---
+
+  ## 🏆 Logros Desbloqueados (Unlocked Achievements)
+
+  * 🥇 **[Logro Legendario] Fundamentos de Análisis de Datos:** Certificado por **DS4A / Colombia** y **Correlation One**.
+  * 🎖️ **[Logro Épico] Sendas de Maestría:** Diplomados y certificaciones especializadas en **Java** y **Python**.
+  * 🏅 **[Logro de Hermandad] Alianzas Tecnológicas:** Programas culminados con **Oracle Academy**, **Hewlett Packard Enterprise (HPE)**, **IBM SkillsBuild** y **Alura Latam**.
+
+</details>
+
+<br>
+
+<!-- ========================================== -->
+<!-- 🇺🇸 ENGLISH VERSION (COLLAPSED BY DEFAULT)  -->
+<!-- ========================================== -->
+<details>
+  <summary>🇺🇸 <b>English Version</b> <i>(Click to expand / Click para desplegar)</i></summary>
   <br>
 
   ## 📜 Character Sheet
@@ -36,6 +113,7 @@
   * 🛡️ **Primary Class:** Tech Druid (Web Development, Automation & Software Tools).
   * ⚔️ **Faction:** Horde (Lok'tar Ogar!).
   * 🧠 **Passive Skills:** Debugging Resilience, Rapid Learning, and Logical-Mathematical Mindset.
+  * 🗣️ **Linguistic Training:** Learning Mandarin Chinese 🇨🇳 (Deciphering new scrolls).
   * 🎧 **Sonic Hobby:** Live Coding with **Strudel**, crafting beats and algorithmic rhythms live (heavily inspired by DJ_DAVE).
   * 🎮 **Azeroth Pastime:** Adventurer in World of Warcraft.
 
@@ -47,6 +125,12 @@
   ## 🗺️ Active Quest Log
 
   Current quests and expeditions I am embarking on across the software realm:
+
+  - 🎵 **`[Retro Quest]` Vintage MP3 Player — Windows & Nintendo DS:**
+    Developing a retro-style audio player currently targeting Windows and Nintendo DS (exploring homebrew software and classic portable gaming architectures).
+
+  - 🕹️ **`[Emulation Quest]` 8-Bit Arcane — Commodore 64 Emulator:**
+    Diving into retro system hardware architecture and building a Commodore 64 emulator, alongside brainstorming and prototyping experimental new software projects.
 
   - 🌍 **`[Main Quest]` Environmental Guardian — Carbon Footprint Measurement Platform:**
     Actively collaborating on the development of a technological platform for calculating, monitoring, and analyzing environmental impact and carbon emissions.
@@ -94,7 +178,7 @@
 <!-- 🇨🇳 CHINESE VERSION (COLLAPSED BY DEFAULT)  -->
 <!-- ========================================== -->
 <details>
-  <summary>🇨🇳 <b>中文版本 (Chinese Version)</b> <i>(点击展开 / Click to expand)</i></summary>
+  <summary>🇨🇳 <b>中文版本 (Chinese Version)</b> <i>(点击展开 / Click para desplegar)</i></summary>
   <br>
 
   ## 📜 角色面板 (Character Sheet)
@@ -106,6 +190,7 @@
   * 🛡️ **主要职业：** 科技德鲁伊 (Web 开发、自动化与软件工具)。
   * ⚔️ **阵营：** 部落 (Lok'tar Ogar! 为了部落！)。
   * 🧠 **被动技能：** 抗压 Debug 韧性、快速学习能力、逻辑与数学思维。
+  * 🗣️ **语言修行：** 正在学习中文普通话 🇨🇳（研读古老东方卷轴）。
   * 🎧 **音乐爱好：** 使用 **Strudel** 进行实时代码编写（Live Coding），现场制作节拍与算法律动（深受 DJ_DAVE 启发）。
   * 🎮 **艾泽拉斯日常：** 《魔兽世界》冒险者。
 
@@ -117,6 +202,12 @@
   ## 🗺️ 进行中的任务日志 (Active Quest Log)
 
   当前我在软件领域中正在进行的任务与远征：
+
+  - 🎵 **`[复古任务]` 复古 MP3 播放器 — Windows & 任天堂 DS：**
+    正在开发一款复古风格的音频播放器，目前面向 Windows 和 Nintendo DS（探索自制软件与经典掌机架构开发）。
+
+  - 🕹️ **`[模拟器任务]` 8位元奥术 — Commodore 64 模拟器：**
+    深入研究复古计算机硬件架构，正在开发 Commodore 64 模拟器，并积极孵化新奇的软件构想与实验性项目。
 
   - 🌍 **`[主线任务]` 环境卫士 — 碳足迹测算平台：**
     积极参与构建用于计算、监测和分析环境影响与碳排放的技术平台。
@@ -198,7 +289,7 @@
 
 ## 📍 Hearthstone (Contact)
 
-Looking to team up for a quest, talk software engineering, or discuss World of Warcraft? Feel free to reach out! / 想组队完成任务、探讨软件工程或畅聊魔兽世界？欢迎随时联系！
+Looking to team up for a quest, talk software engineering, or discuss World of Warcraft? Feel free to reach out! / ¿Quieres hacer equipo para una misión, hablar sobre ingeniería de software o World of Warcraft? ¡Escríbeme!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jrafaelmorantes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -208,5 +299,5 @@ Looking to team up for a quest, talk software engineering, or discuss World of W
 </p>
 
 <p align="center">
-  <sub>🛡️ <i>Lok'tar Ogar! May your scripts never fail and your builds be legendary. / 为了部落！愿你的脚本永无错误，代码构建皆成传奇。</i> 🛡️</sub>
+  <sub>🛡️ <i>Lok'tar Ogar! May your scripts never fail and your builds be legendary. / ¡Que tus scripts nunca fallen y tus builds sean legendarias! / 愿你的脚本永无错误，代码构建皆成传奇。</i> 🛡️</sub>
 </p>
