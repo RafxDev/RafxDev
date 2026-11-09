@@ -36,7 +36,7 @@
   * 💼 **Enfoque Principal:** Desarrollo Web, Automatización y Herramientas de Software.
   * 🧠 **Fortalezas Clave:** Capacidad analítica y resolución de problemas, aprendizaje acelerado y pensamiento lógico-matemático.
   * 🗣️ **Idiomas:** Español (Nativo), Inglés y actualmente estudiando Chino Mandarín 🇨🇳.
-  * 🎧 **Intereses & Hobbies:** Live Coding con **Strudel**, explorando la generación de música algorítmica (inspirado por DJ_DAVE), y desarrollo de software retro.
+  * 🎧 **Intereses & Hobbies:** Live Coding con **Strudel**, explorando la generación de música algorítmica (inspirado por DJ_DAVE), desarrollo de software retro y desarrollo de videojuegos independientes (Game Dev).
 
   <br clear="both"/>
   <br>
@@ -46,6 +46,12 @@
   ## 🚀 Proyectos e Iniciativas (Current Projects)
 
   Proyectos y líneas de desarrollo en los que me encuentro trabajando activamente:
+
+  - 🏪 **`[Sistemas Comerciales & POS]` Sistema de Punto de Venta (POS) para Negocios:**
+    Desarrollo, mejora continua y optimización de una solución POS para comercios. Actualmente en producción y en uso activo por clientes reales para la gestión diaria de ventas, caja, facturación e inventario.
+
+  - 🕯️ **`[Game Dev]` Videojuego de Terror Psicológico — Protocolo Morrow:**
+    En desarrollo activo de un videojuego indie de terror y misterio en Godot Engine, enfocado en una atmósfera inmersiva, diseño de sonido envolvente, mecánicas de investigación y una intensa narrativa de suspenso.
 
   - 🎵 **`[Retro Dev]` Reproductor MP3 Vintage — Windows & Nintendo DS:**
     Desarrollando un reproductor de audio retro actualmente para Windows y Nintendo DS (explorando desarrollo homebrew y plataformas portátiles clásicas).
@@ -71,14 +77,15 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,firebase,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=12" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,java,py,mysql,firebase,godot,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=10" />
     </a>
   </p>
 
   | Categoría | Habilidades y Tecnologías |
   | :--- | :--- |
-  | **🌐 Frontend e Interfaces** | HTML5, CSS3, JavaScript, Web UI/UX |
+  | **🌐 Frontend e Interfaces** | Next.js, HTML5, CSS3, JavaScript, Web UI/UX |
   | **⚙️ Backend y Lenguajes** | Python, Java, Bash Scripting |
+  | **🎮 Game Development** | Godot Engine, GDScript |
   | **💾 Datos y Persistencia** | MySQL, Firebase, Fundamentos de Análisis de Datos |
   | **☁️ Nube y Entornos** | AWS, Azure, Google Cloud Platform (GCP), Linux |
   | **🛠️ Herramientas y DevOps** | Git, GitHub Actions, VS Code, Discord.js, Notion |
@@ -111,7 +118,7 @@
   * 💼 **Primary Focus:** Web Development, Automation & Software Tools.
   * 🧠 **Core Strengths:** Analytical problem solving, rapid learning, and logical-mathematical mindset.
   * 🗣️ **Languages:** Spanish (Native), English, and currently studying Mandarin Chinese 🇨🇳.
-  * 🎧 **Interests & Hobbies:** Live Coding with **Strudel**, crafting beats and algorithmic rhythms live (inspired by DJ_DAVE), and retro computing.
+  * 🎧 **Interests & Hobbies:** Live Coding with **Strudel**, crafting beats and algorithmic rhythms live (inspired by DJ_DAVE), retro computing, and indie game development.
 
   <br clear="both"/>
   <br>
@@ -121,6 +128,12 @@
   ## 🚀 Current Projects & Initiatives
 
   Current projects and development areas I am actively working on:
+
+  - 🏪 **`[Commercial Systems & POS]` Point of Sale (POS) Business System:**
+    Co-development, optimization, and continuous enhancement of a business POS platform. Currently live in production with active clients relying on it daily to manage sales, checkout, billing, and inventory.
+
+  - 🕯️ **`[Game Dev]` Psychological Horror Indie Game — Protocol Morrow:**
+    Actively developing an indie horror and suspense game built with Godot Engine, focusing on immersive atmosphere, environmental sound design, investigative gameplay, and narrative tension.
 
   - 🎵 **`[Retro Dev]` Vintage MP3 Player — Windows & Nintendo DS:**
     Developing a retro-style audio player currently targeting Windows and Nintendo DS (exploring homebrew software and classic portable gaming architectures).
@@ -146,14 +159,15 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,firebase,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=12" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,java,py,mysql,firebase,godot,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=10" />
     </a>
   </p>
 
   | Category | Skills & Technologies |
   | :--- | :--- |
-  | **🌐 Frontend & Interfaces** | HTML5, CSS3, JavaScript, Web UI/UX |
+  | **🌐 Frontend & Interfaces** | Next.js, HTML5, CSS3, JavaScript, Web UI/UX |
   | **⚙️ Backend & Languages** | Python, Java, Bash Scripting |
+  | **🎮 Game Development** | Godot Engine, GDScript |
   | **💾 Data & Persistence** | MySQL, Firebase, Data Analytics Fundamentals |
   | **☁️ Cloud & Environments** | AWS, Azure, Google Cloud Platform (GCP), Linux |
   | **🛠️ Tools & DevOps** | Git, GitHub Actions, VS Code, Discord.js, Notion |
@@ -186,7 +200,7 @@
   * 💼 **主要方向：** Web 开发、自动化与软件工具。
   * 🧠 **核心优势：** 抗压 Debug 韧性、快速学习能力、逻辑与数学思维。
   * 🗣️ **语言能力：** 西班牙语（母语）、英语，正在学习中文普通话 🇨🇳。
-  * 🎧 **兴趣爱好：** 使用 **Strudel** 进行实时代码编写（Live Coding），制作算法节拍与律动（受 DJ_DAVE 启发），以及复古硬件与开发。
+  * 🎧 **兴趣爱好：** 使用 **Strudel** 进行实时代码编写（Live Coding），制作算法节拍与律动（受 DJ_DAVE 启发），复古硬件与系统，以及独立游戏开发（Game Dev）。
 
   <br clear="both"/>
   <br>
@@ -196,6 +210,12 @@
   ## 🚀 进行中的项目 (Current Projects)
 
   当前我在软件开发领域中积极推进的项目与探索：
+
+  - 🏪 **`[商业系统 & POS]` 商业 POS（收银与销售点）管理系统：**
+    参与开发、持续优化与维护面向商户的综合 POS 系统。目前已正式上线投产，已有真实活跃客户日常使用该系统进行销售开单、收银、发票与库存管理。
+
+  - 🕯️ **`[游戏开发]` 心理恐怖独立游戏 — Protocol Morrow：**
+    正在使用 Godot 引擎积极开发一款心理悬疑恐怖游戏，专注于沉浸式环境氛围、环绕音效设计、探索调查机制与心理压迫叙事。
 
   - 🎵 **`[复古开发]` 复古 MP3 播放器 — Windows & 任天堂 DS：**
     正在开发一款复古风格的音频播放器，目前面向 Windows 和 Nintendo DS（探索自制软件与经典掌机架构开发）。
@@ -221,14 +241,15 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,py,mysql,firebase,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=12" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,nextjs,java,py,mysql,firebase,godot,aws,azure,gcp,git,github,discordjs,vscode,bash,linux,githubactions,notion&perline=10" />
     </a>
   </p>
 
   | 类别 | 技能与技术 |
   | :--- | :--- |
-  | **🌐 前端与交互** | HTML5, CSS3, JavaScript, Web UI/UX |
+  | **🌐 前端与交互** | Next.js, HTML5, CSS3, JavaScript, Web UI/UX |
   | **⚙️ 后端与语言** | Python, Java, Bash Scripting |
+  | **🎮 游戏开发** | Godot Engine, GDScript |
   | **💾 数据与持久化** | MySQL, Firebase, 数据分析基础 |
   | **☁️ 云计算与环境** | AWS, Azure, Google Cloud Platform (GCP), Linux |
   | **🛠️ 工具与 DevOps** | Git, GitHub Actions, VS Code, Discord.js, Notion |
