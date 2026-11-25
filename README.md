@@ -9,16 +9,17 @@
 
 <p align="center">
   <a href="https://github.com/RafxDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=007ACCEB&center=true&vCenter=true&width=750&lines=Game+Developer+Intern+%40+Blizzard+Entertainment+(2+Years)+%E2%9D%84%EF%B8%8F;Ex-Software+Engineer+%26+Corporate+Trainer+%40+IBM+%F0%9F%8F%A2;Former+Software+Development+Engineer+Intern+%40+Amazon+%F0%9F%93%A6;Developing+an+Indie+Psychological+Horror+Game+%F0%9F%91%BB;Trilingual%3A+Spanish+(Native)+%7C+Chinese+(100%25)+%7C+English+(Intermediate)+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=007ACCEB&center=true&vCenter=true&width=780&lines=Game+Developer+Intern+%40+Blizzard+Entertainment+(2+Years)+%E2%9D%84%EF%B8%8F;Ex-Software+Engineer+%26+Corporate+Trainer+%40+IBM+%F0%9F%8F%A2;Former+Software+Development+Engineer+Intern+%40+Amazon+%F0%9F%93%A6;Developing+an+Indie+Psychological+Horror+Game+%F0%9F%91%BB;Born+in+Romania+%F0%9F%87%B7%F0%9F%87%B4+%E2%80%A2+Based+in+Colombia+%F0%9F%87%A8%F0%9F%87%B4;Polyglot%3A+Romanian+(Native)+%7C+Spanish+(Native)+%7C+Chinese+(100%25)+%7C+English" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Origin%20%26%20Location-Romania%20%F0%9F%87%B7%F0%9F%87%B4%20%E2%9E%94%20Colombia%20%F0%9F%87%A8%F0%9F%87%B4-002B7F?style=for-the-badge" alt="Romania to Colombia"/></a>
   <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Blizzard-Game%20Dev%20(2%20Yrs)-002650?style=for-the-badge&logo=battledotnet&logoColor=white" alt="Blizzard Entertainment"/></a>
   <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/IBM-Ex--Engineer%20%26%20Trainer-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Ex-IBM"/></a>
   <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Amazon-Ex--Intern-FF9900?style=for-the-badge&logo=amazon&logoColor=black" alt="Ex-Amazon"/></a>
   <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Project-Horror%20Game%20(WIP)-800020?style=for-the-badge&logo=godotengine&logoColor=white" alt="Indie Game Dev"/></a>
-  <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Languages-ES%20|%20CN%20(100%25)%20|%20EN-007ACC?style=for-the-badge" alt="Languages"/></a>
+  <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Languages-RO%20(Nat)%20|%20ES%20(Nat)%20|%20CN%20(100%25)%20|%20EN-007ACC?style=for-the-badge" alt="Languages"/></a>
   <a href="https://github.com/RafxDev"><img src="https://img.shields.io/badge/Status-Open%20to%20Collaborations-4A154B?style=for-the-badge" alt="Status"/></a>
 </p>
 
@@ -41,17 +42,19 @@
 
   <img align="right" src="assets/logo.png" alt="RafxDev Avatar" width="185" style="margin-left: 20px; margin-bottom: 15px;">
 
-  Desarrollador de Software y Programador de Videojuegos con trayectoria en reconocidas compañías globales de tecnología y entretenimiento: **Ex-Pasante de Desarrollo de Videojuegos por 2 años en Blizzard Entertainment**, **Ex-Ingeniero de Software y Capacitador Técnico en IBM**, y **Ex-Practicante en Amazon**.
+  **Rumano de nacimiento 🇷🇴 y actualmente radicado en Colombia 🇨🇴.** Desarrollador de Software y Programador de Videojuegos con trayectoria en reconocidas compañías globales de tecnología y entretenimiento: **Ex-Pasante de Desarrollo de Videojuegos por 2 años en Blizzard Entertainment**, **Ex-Ingeniero de Software y Capacitador Técnico en IBM**, y **Ex-Practicante en Amazon**.
 
   Apasionado por la arquitectura limpia, los sistemas interactivos, la automatización y el desarrollo de experiencias inmersivas. Actualmente enfocado en ingeniería de software y en el **desarrollo activo de un videojuego indie de terror psicológico**.
 
+  * 🌍 **Origen & Ubicación:** Rumano de nacimiento 🇷🇴, viviendo actualmente en Colombia 🇨🇴.
   * ❄️ **Trayectoria Blizzard Entertainment:** 2 años como pasante en desarrollo de videojuegos, colaborando en mecánicas de gameplay, optimización y procesos de producción en la industria AAA.
   * 🏢 **Trayectoria IBM:** Ex-Ingeniero de Software y Capacitador/Entrenador Técnico corporativo en tecnologías clave, buenas prácticas y formación de talento.
   * 📦 **Trayectoria Amazon:** Ex-Practicante de ingeniería de software, familiarizado con desarrollo ágil y arquitecturas escalables.
   * 🕹️ **Indie Game Development:** Desarrollador independiente; creando un título de terror y misterio psicológico (*¡pronto más información y avances oficiales!*).
   * 🗣️ **Idiomas:**
-    - 🇨🇳 **Chino Mandarín:** 100% (Fluidez completa / Bilingüe).
+    - 🇷🇴 **Rumano:** Nativo (Limba maternă).
     - 🇪🇸 **Español:** Nativo.
+    - 🇨🇳 **Chino Mandarín:** 100% (Fluidez completa / Bilingüe).
     - 🇺🇸 **Inglés:** Intermedio (Competencia técnica y profesional).
   * 💼 **Especialidad Técnica:** Game Development, Desarrollo Web Full Stack, automatización y herramientas de software.
   * 🧠 **Habilidades Diferenciales:** Gameplay programming, pensamiento lógico-matemático, pedagogía técnica y resolución de problemas complejos.
@@ -154,17 +157,19 @@
 
   <img align="right" src="assets/logo.png" alt="RafxDev Avatar" width="185" style="margin-left: 20px; margin-bottom: 15px;">
 
-  Software & Game Developer with corporate experience across leading tech and entertainment companies: **2-Year Game Developer Intern @ Blizzard Entertainment**, **Ex-Software Engineer & Corporate Technical Trainer @ IBM**, and **Former SDE Intern @ Amazon**.
+  **Born in Romania 🇷🇴 and currently based in Colombia 🇨🇴.** Software & Game Developer with corporate experience across leading tech and entertainment companies: **2-Year Game Developer Intern @ Blizzard Entertainment**, **Ex-Software Engineer & Corporate Technical Trainer @ IBM**, and **Former SDE Intern @ Amazon**.
 
   Passionate about clean architecture, interactive systems, automation, and crafting immersive gaming experiences. Currently focused on software tooling and the **active development of an indie psychological horror game**.
 
+  * 🌍 **Origin & Location:** Born in Romania 🇷🇴, currently living in Colombia 🇨🇴.
   * ❄️ **Blizzard Entertainment Experience:** 2 years as a game developer intern, working on gameplay programming, mechanics, and game systems optimization in an AAA production environment.
   * 🏢 **IBM Experience:** Ex-Software Engineer & Corporate Technical Trainer at **IBM**, driving software quality and mentoring engineering teams.
   * 📦 **Amazon Experience:** Former SDE intern, gaining hands-on software development experience within Amazon's fast-paced cloud ecosystem.
   * 🕹️ **Indie Game Development:** Indie game creator; currently developing an atmospheric psychological horror game (*more details & announcements coming soon!*).
   * 🗣️ **Languages:**
-    - 🇨🇳 **Mandarin Chinese:** 100% (Full Fluency / Native-level).
+    - 🇷🇴 **Romanian:** Native.
     - 🇪🇸 **Spanish:** Native.
+    - 🇨🇳 **Mandarin Chinese:** 100% (Full Fluency / Native-level).
     - 🇺🇸 **English:** Intermediate (Technical & professional proficiency).
   * 💼 **Core Focus:** Game Development, Full Stack Web Development, software tooling, and system automation.
   * 🧠 **Key Strengths:** Gameplay programming, analytical problem solving, technical pedagogy, and logical-mathematical mindset.
@@ -267,18 +272,20 @@
 
   <img align="right" src="assets/logo.png" alt="RafxDev Avatar" width="185" style="margin-left: 20px; margin-bottom: 15px;">
 
-  我是一名兼具全球顶尖游戏研发与跨国科技企业经历的软件及游戏开发者。曾拥有 **暴雪娱乐 (Blizzard Entertainment) 2年游戏开发实习经历**、**IBM 前软件工程师与企业技术培训讲师 (Ex-Software Engineer & Corporate Trainer @ IBM)** 以及 **亚马逊 (Amazon) 前软件开发实习生** 的多元背景。
+  **出生于罗马尼亚 🇷🇴，现定居生活于哥伦比亚 🇨🇴。** 我是一名兼具全球顶尖游戏研发与跨国科技企业经历的软件及游戏开发者。曾拥有 **暴雪娱乐 (Blizzard Entertainment) 2年游戏开发实习经历**、**IBM 前软件工程师与企业技术培训讲师 (Ex-Software Engineer & Corporate Trainer @ IBM)** 以及 **亚马逊 (Amazon) 前软件开发实习生** 的多元背景。
 
   热衷于整洁软件架构（Clean Architecture）、交互系统、工作流自动化及高沉浸度数字体验。目前在推进专业开发工具研发的同时，以独立游戏开发者身份，正全心投入制作一款**心理恐怖独立游戏**。
 
+  * 🌍 **出生地与居住地：** 罗马尼亚原籍 🇷🇴，目前定居生活于哥伦比亚 🇨🇴。
   * ❄️ **暴雪娱乐 (Blizzard Entertainment)：** 2年游戏开发实习生经历，专注于游戏玩法与系统逻辑开发、性能优化及大型游戏工业化管线协作。
   * 🏢 **IBM：** 前软件工程师与企业培训导师，深耕企业级系统架构研发，并主持面向技术团队的高阶技术培训与人才赋能。
   * 📦 **亚马逊 (Amazon)：** 前软件开发实习生，深入理解高可用云生态与严谨的工业级工程文化。
   * 🕹️ **独立游戏开发：** 独立游戏开发者；正在积极制作一款注重心理压迫与氛围沉浸的恐怖游戏（*即将发布更多最新动态*）。
   * 🗣️ **语言能力 (Languages)：**
-    - 🇨🇳 **中文普通话：** 100% 完全精通 / 母语级流利（Full Native-level Fluency）。
-    - 🇪🇸 **西班牙语：** 母语（Native）。
-    - 🇺🇸 **英语：** 中级（Intermediate / 具备专业技术沟通与阅读能力）。
+    - 🇷🇴 **罗马尼亚语 (Romanian)：** 母语 (Native)。
+    - 🇪🇸 **西班牙语 (Spanish)：** 母语 (Native)。
+    - 🇨🇳 **中文普通话 (Mandarin)：** 100% 完全精通 / 母语级流利（Full Native-level Fluency）。
+    - 🇺🇸 **英语 (English)：** 中级 (Intermediate / 具备专业技术沟通与阅读能力)。
   * 💼 **技术主攻：** 游戏研发 (Game Dev)、全栈 Web 开发、工作流自动化与高效率开发工具链。
   * 🧠 **核心能力：** 游戏架构与底层逻辑设计、逻辑与数学思维、跨文化技术教学与沟通、敏捷工程实现。
   * 🎧 **创作探索：** 使用 **Strudel** 编写实时生成代码音乐（Live Coding Algorave，受 DJ_DAVE 启发）、复古掌机与硬件开发（任天堂 NDS 自制软件、Commodore 64）以及游戏叙事设计。
